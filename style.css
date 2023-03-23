@@ -25,11 +25,8 @@ width: 15%;
 margin-left: 0%;
 }
 
-.contato{font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;}
-
-iframe{
-  width: 50%;
-  margin-left: 25%;
+.contato{
+font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;
 }
 
 img{
