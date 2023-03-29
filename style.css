@@ -11,8 +11,14 @@ h1{
   font-family: inherit; text-align: center; color:white; border: 10px solid #C9460E;
 }
 
+h2{
+  font-family: inherit; text-align: center; color:white; border: 10px solid #C9460E;
+}
+
+
+/*arrumar os bagulho do hobbie*/
 p{
-  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid #C7B704;
+  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid cyan;
 }
 
 ul {
