@@ -5,7 +5,20 @@ header{
   background-color: #D9D9D9
 }
 
-.titulo{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-top: -7%}
+nav li{
+  display: inline-block;
+  margin: 0 0 0 380px;
+  text-transform: uppercase;
+}
+
+nav a:hover{
+color: white;
+text-decoration: underline;
+}
+
+.titulo{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-top: -10%}
+
+.titulo2{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-left: inherit;}
 
 h1{
   font-family: inherit; text-align: center; color:Black; border: 10px solid #795A49;
@@ -41,4 +54,8 @@ img{
 
 .contato{
     font-family: monospace; font-size: 50px; color:Black; text-align: center;
+}
+/*terminar de editar foto*/
+.foto{
+
 }
