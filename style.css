@@ -1,24 +1,22 @@
 body{
-  background-color: black
+  background-color: #AEAEAE
 }
 header{
-  background-color: #0F0F0E
+  background-color: #D9D9D9
 }
 
-.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -7%}
+.titulo{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-top: -7%}
 
 h1{
-  font-family: inherit; text-align: center; color:white; border: 10px solid #C9460E;
+  font-family: inherit; text-align: center; color:Black; border: 10px solid #795A49;
 }
 
 h2{
-  font-family: inherit; text-align: center; color:white; border: 10px solid #C9460E;
+  font-family: inherit; text-align: center; color:Black; border: 10px solid #795A49;
 }
 
-
-/*arrumar os bagulho do hobbie*/
-p{
-  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid cyan;
+.hobbies{
+  font-family: monospace; font-size: 30px; color:Black; text-align: center; border: 10px solid #795A49;
 }
 
 ul {
@@ -31,11 +29,16 @@ width: 15%;
 margin-left: 0%;
 }
 
-.contato{
-font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;
-}
+h4{font-family: inherit; color:Black ; font-size: 40px; text-align: left;}
+h5{font-family: inherit; color:Black ; font-size: 40px; text-align: left;}
+h6{font-family: inherit; color:Black ; font-size: 40px; text-align: left;}
+
 
 img{
   width: 100%;
   margin-left: 0%;
+}
+
+.contato{
+    font-family: monospace; font-size: 50px; color:Black; text-align: center;
 }
