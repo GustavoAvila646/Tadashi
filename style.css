@@ -7,7 +7,7 @@ header{
 
 nav li{
   display: inline-block;
-  margin: 0 0 0 380px;
+  margin: 0 0 0 200px;
   text-transform: uppercase;
 }
 
@@ -16,7 +16,7 @@ color: white;
 text-decoration: underline;
 }
 
-.titulo{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-top: -10%}
+.titulo{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-top: -9%}
 
 .titulo2{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-left: inherit;}
 
@@ -38,8 +38,8 @@ font-size: 30px;
 }
 
 .logo{
-width: 15%;
-margin-left: 0%;
+width: 30%;
+margin-left: -5%;
 }
 
 h4{font-family: inherit; color:Black ; font-size: 40px; text-align: left;}
@@ -48,14 +48,10 @@ h6{font-family: inherit; color:Black ; font-size: 40px; text-align: left;}
 
 
 img{
-  width: 100%;
-  margin-left: 0%;
+  width: 50%;
+  margin-left: 25%;
 }
 
 .contato{
     font-family: monospace; font-size: 50px; color:Black; text-align: center;
-}
-/*terminar de editar foto*/
-.foto{
-
 }
