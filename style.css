@@ -7,7 +7,7 @@ header{
 
 nav li{
   display: inline-block;
-  margin: 0 0 0 200px;
+  margin: 0 0 0 350px;
   text-transform: uppercase;
 }
 
@@ -16,7 +16,7 @@ color: white;
 text-decoration: underline;
 }
 
-.titulo{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-top: -9%}
+.titulo{  font-family: cursive; font-size: 150px; color: Black; text-align: center;margin-top: -9%}
 
 .titulo2{  font-family: cursive; font-size: 100px; color: Black; text-align: center;margin-left: inherit;}
 
